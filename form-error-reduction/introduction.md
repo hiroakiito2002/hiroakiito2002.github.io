@@ -49,6 +49,8 @@ New request form template was designed with the considerations above, and publis
 
 The number of tickets with missing merchant name have dropped from 40.21% to 0.15% (literally just one ticket out of XXX tickets using the new template during the sample period).
 
+![](images/graph_result.png)
+
 However changes to other fields were included despite the best practice to only change a single variable at a time, due to limited resources to publish the change.
 
 After few anecdotal reports of another field being left blank, I have decided to investigate further. Using the data collected HH hours before & after the update I have noted the following:
