@@ -2,13 +2,19 @@
 
 ---
 
-### Category Name 1 
-
 [Reducing fom imput error](/form-error-reduction/introduction)
+<!-- <img src="form-error-reduction/images/graph_result.png"/> -->
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Measuring the impact of interaction (Trial)
 
+Data Science Learning Project
+
+<!-- Escalate when in doubt -->
+
+<!-- Systematic collection of regional insights -->
+
+
+<!-- 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -25,13 +31,11 @@
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 5 Title](http://example.com/) -->
+
+
+
+
 
 ---
 
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
