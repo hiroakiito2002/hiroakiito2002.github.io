@@ -1,16 +1,16 @@
-# Reducing form input error
+# Measuring the impact of interaction with merchants
 
 - Role: Data analyst
-- Situation: High rate of missing field in a form
-- Task: Error reduction.
-- Action: Issue investigation, Solution implementation & validation.
-- Result: 40% reduction in error.
+- Situation: Senior management keen to put "Lean Startup" into practice, and wanted to start measuring the impact of the work done by the team, so that we can continuously improve the outcome.
+- Task: Measure the impact created from interaction with merchants.
+- Action: Quantitate the impact of the work done by the team.
+- Result: Identified effective KPI and method of measurement to track the impact of the work done by the Theme Support team.
 
 
 ### TL;DR
-As a Theme Support Specialist at Shopify we receive various requests from our merchants to customise and improve their store.
+As Theme Support Specialists at Shopify we create value for our merchants through customisation that adds value to their business.
 
-Shortly after joining the team I noticed the *merchant name* field on the customisation request form was often left blank by the frontline support team, and decided to investigate the issue to reduce the error. 
+About an year after joining the team I was asked by the senior management to quantitate the value we are creating for our merchant so that we may continue to improve our performance.
 
 
 ### 1. Issue validation
