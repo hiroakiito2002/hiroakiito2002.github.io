@@ -1,7 +1,7 @@
 # Measuring the impact of interaction with merchants
 
 - Role: Data analyst
-- Situation: Senior management keen to put "Lean Startup" into practice, and wanted to start measuring the impact of the work done by the team, so that we can continuously improve the outcome.
+- Situation: Senior management wanted to start measuring the impact of the work done by the team, so that we can continuously improve our outcome.
 - Task: Measure the impact created from interaction with merchants.
 - Action: Quantitate the impact of the work done by the team.
 - Result: Identified effective KPI and method of measurement to track the impact of the work done by the Theme Support team.
