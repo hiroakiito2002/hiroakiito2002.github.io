@@ -5,7 +5,7 @@
 [Reducing fom imput error](/form-error-reduction/introduction)
 <!-- <img src="form-error-reduction/images/graph_result.png"/> -->
 
-Measuring the impact of interaction (Trial)
+[Measuring the impact of interaction](/interaction-impact-tracking/introduction)
 
 Data Science Learning Project
 
