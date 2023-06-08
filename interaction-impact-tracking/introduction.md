@@ -106,7 +106,7 @@ Documents
 
 ## 5. Solution assessment
 
-**TL;DR**: Goal metric is **highly effective** in separating intended & unintended (natural) growth.
+**TL;DR**: Tracking goal metrics is **highly effective** in separating intended growth from natural growth.
 
 - The interaction with product view as the goal had recorded an average growth of X%, while interactions with other goals produced Y% growth on average.
 - We can calculate the true impact of **Theme Support interaction to be 43% higher** than the natural growth rate.
@@ -122,6 +122,6 @@ The experiment successfully **proved the hypothesis that tracking the goal of cu
 In addition, the base growth rate provided a benchmark for us to identify which customisation is delivering the impact beyond the natural growth rate with statistical significance.
 ![](images/goal_tracking_application.png)
 
-Lastly, the qualitative analysis of participants' feedback confirmed the process had virtually no impact on their tasks and agreed that collecting objective insights about the impact of customisation is invaluable.
+Lastly, the qualitative analysis of participants' feedback confirmed the process had **no negative impact on their tasks** and agreed that collecting objective insights about the impact of customisation is invaluable.
 
 The experiment was concluded with advice to extend the experiment to the entire Theme Support team and to be integrated into the daily workflow.
