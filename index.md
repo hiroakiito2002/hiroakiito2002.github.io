@@ -12,8 +12,8 @@ Measuring the impact of support interaction<br>
 <img src="/interaction-impact-tracking/images/correlation.png"></a>
 
 <a href="/support-cost-optimisation/introduction">
-Measuring the impact of support interaction<br>
-<img src="/support-cost-optimisation/images/correlation.png"></a>
+Escalated support service optimisation<br>
+<img src="/support-cost-optimisation/images/bubble.png"></a>
 
 <!-- Escalate when in doubt -->
 
